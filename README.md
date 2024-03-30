@@ -1,14 +1,17 @@
-<h1 align="center">Bonjour 👋, Je suis Jérôme</h1>
-<h3 align="center">Un développeur passionné</h3>
+<h1 align="center">Hello👋, I'm Jérôme</h1>
+<h3 align="center">A developper from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jburesi&label=Profile%20views&color=0e75b6&style=flat" alt="jburesi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jburesi" alt="jburesi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 🌱 I’m currently learning **Godot**
+
+- 👨‍💻 All of my projects are available at [https://github.com/jburesi?tab=repositories](https://github.com/jburesi?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jburesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jburesi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
